@@ -11,3 +11,7 @@ trim_trailing_whitespace = true
 [*.md]
 max_line_length = off
 trim_trailing_whitespace = false
+
+[remote "origin"]
+url = https://github.com/diariki/AngularTP1
+fetch = +refs/heads/*:refs/remotes/origin/*
